@@ -1,6 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 keys.json
+/scripts/.ipynb_checkpoints/*
+/scripts/stories.csv
+/scripts/entriesWithCollections.csv
 
 # dependencies
 /node_modules
